@@ -1,2 +1,2 @@
-Github link for the App workflow: https://github.com/AFZAALAHMEDKHAN/gitops-app-vprofile.git
+Github link for the App workflow: https://github.com/GaganPal27/gitops-app-vprofile.git
 
